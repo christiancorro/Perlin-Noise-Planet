@@ -1,1 +1,1 @@
-![perlin noise on a sphere](images/noise.png)
+![perlin noise on a sphere](images/noise2.png)
